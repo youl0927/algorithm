@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.idea/**
+.idea/sonarlint/issuestore/**
+.idea/workspace.xml
+
+**/.idea/**
+algorithm/.idea/**
