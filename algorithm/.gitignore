@@ -176,3 +176,5 @@ gradle-app.setting
 .idea/**
 .idea/sonarlint/issuestore/**
 .idea/workspace.xml
+
+**/.idea/**
