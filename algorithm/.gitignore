@@ -179,3 +179,7 @@ gradle-app.setting
 
 **/.idea/**
 algorithm/.idea/**
+
+/algorithm/.idea/**
+
+**/algorithm.iml

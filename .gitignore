@@ -27,3 +27,9 @@ TestResults.xml
 
 **/.idea/**
 algorithm/.idea/**
+
+/algorithm/.idea/**
+
+**/out/
+
+algorithm.iml
